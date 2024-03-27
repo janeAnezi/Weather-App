@@ -6,10 +6,7 @@ function App() {
 
   return (
     <>
-      <div className=" relative bg-app-bg w-full h-auto">
-        <div class="absolute inset-0 bg-black opacity-50"></div>
-        <Home />
-      </div>
+      <Home />
       
     </>
   )
